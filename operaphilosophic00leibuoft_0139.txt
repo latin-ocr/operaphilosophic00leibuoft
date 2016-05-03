@@ -1,0 +1,151 @@
+ 
+
+XIX.
+
+R v S X RX,etAparte1n ejusrectamsci-
+
+—0—0*
+
+rectam scilicet X Vg ponatur quaelibet harum partium
+
+RS vel XV major 0550 dimidio 1011115 RX, nam re· ’
+
+vera quia VS est pars 0001010015 ipsorum RS et
+XV erit RS-f-XV aequ Rx-i-SV‚ et tamen vere
+(1101 1101051, 100135 Rs et XV simul coincidere re-
+ctae ΒΧ.
+
+Defin. 4. Si aliquid N insit ipsi A, itemque
+insit ipsi B, id dicetur ipsis commune, ipsa autem
+(1103111111 communicantia: si vero nihil commune
+habeant ut A et N (verbi gratia Rs et ΚΞ), di-
+centur incommunicantia.
+
+Defin. 5. Si ipsi L. insit A, et efficiatur
+Ρ Μ ,N aliud N, in quo omnia
+............ manent, quae suntin
+¹ L, exceptis iis quae
+R}——I·³—J3——‚³Xetia1n sunt? in A quo-
+
+5 rum nihil manere de-
+
+bet in N, dicitur A
+δ ,,,,,,,, (10113111 vel removeri
+IJ' ab L, at N dicetur re-
+5111110111.
+
+Charact. 4. Si sit L —A 30 N, significatur L
+esse continens a quo si detrahas A, residuum
+sit N.
+
+De f i 0. 6. Si unum aliquod pluribus simul po-
+sitis aut remotis coincidit, plura illa dicuntur con-
+s t itu e ntia.
+
+scholium ......
+
+Defin. 7. Constitutio (1100 est positio vel de-
+tractio) vel expressa 051, vel tacita .....
+
+Defin. S. Compensatio 051,001111(1001 110-
+natur et detrahatur in 00110111. Destructio est
+cum quid .......... abjicitur, ut non amplius expri-
+matur, 111 pro M — M ponendo Nihil ¹).
+
+Axioma 1. Si idem 50011111 ipso sumatur, ni-
+hil constituitur 11011101, 500 A÷A x A.
+
+Scholium: Equidem in numeris 4 -ξ- 4 facit S,
+seu bini nummi binis additi faciunt quatuor num-
+
+mos, 5011 tunc bini additi sunt 3111 3 prioribus, ι
+51 11110111 essent, nihil 11011 1110111101 01 perinde essct V
+30 si joco ex tribus ovis facere vellemus sex nume- ,
+
+raudo prinlum 3 ova, deinde uno sublato residua 2,
+ac denique uno rursus sublato residuum.
+
+Axioma 2. Si idem ponitur et detrahitur, =
+
+quicquid inde in alio constituitur, coincidit Nihilo.
+Postulatum l. Plura quaecunque simul sumi
+
+ 
+
+¹] Cum Des. 6-8 et Scholion in margine Auto- ἵ
+graphi scripta sint tam parvis literis iisdemque partim l
+deletis, ut vix cerni, nedum legi queant, non potui ¹
+
+quin aliqua verba omitterem. Not. Ed.
+
+licet RS, et Β aliam ejus partem ’
+
+5ΡΕο111ΕΝ DEMONSTRAN DI. 95
+
+possunt ad unum constituendum ut si sint A et Β,
+potest inde fieri A-«i-B, quod appellari potest L.
+
+Postul. 2. Detrahere aliquid A ab 00 001 in-
+est, nempe ab Α-Ι-Β seu L, reliqua dentur ut B,
+quae 011111 ipso A constituunt continens L, seu iis-
+dem positis invenire residuum L —- A.
+
+Scholium: Ope hujus postulati postea medium
+dabimus inveniendi differentiam inter (1110 quorum
+0110111 A alteri, L, inest, licet reliqua quae cum illo
+hoc constituunt, non dentur, seu medium inveniendi
+L—A, seu A÷B — A, licet solum dentur L et A,
+
+, 11011 vero B.
+
+THEOREMA 1.
+
+Quae sunt eadem uni tertio, 031100150111
+10101 se.
+
+Si Aoe Β 01 Β :e C, erit A α C. Nam si in
+propositione A π Β (vera ex hypothesi) substitua-
+tur C in locuni Β (110011 facere licet per def. 1. quia
+
+’ Β :72 C ex hyp.), fiet A αἱ C. Q. E. Dem.
+
+THEOREMA Π.
+
+Si duorum quae 51101 eadem inter se
+unum diversum sit a tertio, etiam alte-
+rum ab eo erit diversum.
+
+Si A τε Β 01 Β 000 σε C, erit A non π C. Nam
+
+, si 111 propositione Β non :c (¹ (vera ex hyp.) sub-
+
+stituatur A in 1000111 Β (quod facere licet per def.
+l quia A ι( Β ex hyp.) fiet A non a: C. Q. E.Dem.
+
+Not. Hic inseri posset Theoi-ema tale: Quod
+inest uni coincidentium, etiam alteri
+inest. Si A est in Β 01 Β oe C, etiam Α estin C,
+nempe iu prop. A est in Β (vera ex hyp.) substitu-
+
+’ 00110 C 10 1000111 ipsius Β.
+
+THEOREMA 111.
+
+Si eidem addantur coincidentia fiunt
+coincidentia.
+
+Si A αἱ Β, 0111 A -1- C x B -Ι- C. Nam si in
+propositione A÷C :L A ÷C (quae est vera per se)
+
+, 1110 A semel substituas B (quod facere licet per des.
+
+1. quia A oc Β) fietA÷C 3: B÷C. Q. E. Dem.
+
+Coroll. Si coincidentibus addantur
+coincidentia, fiunt coincidentia. Si Aa>
+B, 01 LoeM, erit A÷L x ss-f-M. Nam (per
+praesens theorema) quia L σε Μ, 0111 A-}-L 00 A
+÷M, 01 10 1130 assertione pro A semel ponendo
+B (quia A :12 Β ex hyp.) fiet Α ÷L 00 Β-Ι-Μ.
+Q. E. Dem.
+

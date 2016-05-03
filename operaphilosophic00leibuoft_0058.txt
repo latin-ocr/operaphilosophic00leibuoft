@@ -1,0 +1,128 @@
+14
+
+20
+
+21
+
+22
+
+11. DE ARTE COMBINATORIA.
+
+utiles 18: 2. U (S.) U (S.) S (U) 2. U (S.) S
+(U) U (S.) 2. S (U) U (S) U (S) 4. U (S) U
+(S) P vel I. 4. U J (P) J (P) vel 1000 U, S. 4.
+J (P,) U, J. (P.) et S loeo U. 111101110ιί11-
+aequalis quando nulla eum altera est ejus-
+dem magnitudinis, et ita quemlibet Syllogismum
+ingrediuntur genera 3, toties alia quoties 4. res
+possunt eon3nari, nempe 4. modis. Tria autem
+ratione ordinis variantur 6. modis, v. g.
+U, P, J, U, J, P, P, U, J, P, J, U, J, U, 1³2,
+J, P, U. Ergo 4. ⁰- 6. f. 24. Ex quibus utiles
+12: 2. U, P (J,)J (P) 2. J (P,) U, P, (J),
+totidem si pro U ponas S. 4. ’1- 4. s. 8. 2. U
+(S) S (U) P. totidem si pro P ponas J. 2. -1- 2.
+f. 4. Addamus jam: 4 -1- 36. † 24. s. 64.
+Hae sunt variationes quantitatis solius. Ex qui-
+bus sunt utiles: 2 † 18. *l- 12. f. 32. Caeteri
+eadunt per reg. 1. ex puris particularibus nihil
+sequitur, 2. 0011010510 nullam ex praemissis
+‹piantitate vineit, etsi sortasse interdum ab
+utraque vincatur, uti in Barbari. Porro 011111
+qualitatis duae solum sint diversitates A et N.
+propositiones vero 3. Hine repetitione opus est,
+et vel modus est similis, id est eiusdem qua-
+litatis, vel dissimilis: liujus nulla ulterius est
+variatio, quia mmquam ex toto, sed semper ex
+parte est dissimilis, nunquam enim onmes 1110-
+11115111111105 sunt dissimiles quia solum 2. sunt
+diversitates, Similis speeies sunt. 2. A, A, A.
+N, N, N. dissimilis 2: A, A, N. vel N, N, A.
+dissimilis singulae variantur ratione ordinis 3.
+modis, v. g. A, A, N. N, A, A. A, N, A.
+⁰- 3. f. 6. 'i- 2. f. 8. 1111105 variatur
+qualitas. Ex quibus utiles variationes sunt 3.
+AAA. NAN. ANN. per reg. 1. ex puris nef-vati-
+vis nihil sequitur. 2. Conclusio sequitur partem
+111 qualitate deteriorem. Sed quia modus est
+variatio qualitatis et quantitatis simul, et ita
+singulae variationes quantitatis reeipiunt singu·
+las qualitatis, hine 64. “- 8 f. 512. Numerum
+omnium modorum utilium et inutilium. Ex
+quibus utiles sie repereris: due variationes uti-
+les quantitatis in qualitatis, 32. 0 3. f. 96. 110
+producto subtrahe omnes modos qui eontinen-
+tur in frisesmo, id est qui ratione qualitatis qui-
+dem sunt ANN, ratione quantitatis vero major
+prop. est J vel P, minor autem U vel S, et
+conclusio J 101 P. quales sunt 8. Frisesmo 0111111
+0151 modus est, per se quodammodo subsistens,
+tamen est in nulla figura, v. infra. jam 96 -. 8.
+f. 88, Numerum utilium modorum: llospi-
+niano, eui nostra 11101111111115 ignota, aliter, 5011
+per anibajses procedendum erat. Primum igitur
+
+e. 2. 3. Aristotelieos modos 36. investigat ex
+
+Ergo 2
+
+ 
+
+complicatione U. P. J. 01111550 S. et conclusione
+ex quibus utiles sunt 8. UA, UA. in Barbara
+vel Darapti, UA, P A. in Darii et Datisi, PA,
+UA. in Disamis, UA, UN, in Camestres3 UN,
+UA. in Celarent, Cesare, Felaptou, UA, J N.
+111 Baroeo, UN, J A. in Ferio, Festino, Ferison.
+J N. UA. Boeardo. Quibus addit eap. 4. Sin-
+gulares similes aequales SA, SA. ΞΝ, SN. 2.
+inaequales 3ium generum singulis inversis, et
+quibuslibet vel A vel Nog. 3 ἢ 2 ‘7 2 f. 12.-12.
+f. 14. Ex quibus llospinianus solum ad-
+mittit, U A, ΡΛ. 01 1101111 111 Darii. Quia sin-
+gulares ait particularibus aequipollere eum eom-
+muni logicorum seliola, quod tamen mox fal-
+sum esse osteiulenuis. e. 5. addit singulares dis-
+similes totidem, nempe 14. ex quibus llosp.
+solum admittit Slv, UA. in Bet-ardo, item
+UN, SA. in Ferio, e. (ἰ. addita conclusione
+quasi denuo ineipiens enumerat modos similes
+aequales 4 0 2. s. 8. ex quibus utiles solum
+UA, UA, UA. in Barbara. juxta llospin.
+similes inaequales, sunt vel ex toto inaequales,
+de quibus infra: vel ex parte, de quibus 1111110,
+11111 duae propositismes sunt eiusdem ‹piantita-
+tis, tertia 110111-1111111110, 111101511ος et tune. modo
+duae sunt universales una indefinita, qno easu
+sunt modi o. (nam una 101 11111111 vel medio
+101 tine ponitur 233 semperque aut omnes sunt
+A, aut N. ὀ 0 2. sae. (3.) vel eontra etiam (3.
+per eap. 7. sae. 12. lix solis prioribus (ἱ. 1111115
+est. UA, JA. JA. in Darii et. Datisi. item
+JA, UA , JA. 111 insaniis, item UA, UA ,
+JA. in Darapti, et. 111 llospinianus non
+11101110. in Barbari. (erte eum ex propositione
+UA 50111111111111 duae l’. A. una conversa, hine
+oritur modus indireetus Baralip, alterna subal-
+terna 1 v. e. Omne animal est substantia. (mi-
+nis 1101110 est animal. Ε. Quidam homo est sub-
+stantia. hine oritur iste: Barbari. Totidem,
+nempe 12., sunt modi per eaput 8. 51 duae U.
+et una P. junguntur, vel eontra. et iidem
+sunt modi utiles qui 111 proxima mixtione,
+si pro J substituas l'. Totidem, nempe. 12. 511111
+modi per 0. S. si jung-unitur duae U„ et una S.
+per 0. 9. 01 quia llospin. habet S. pro P. pu<
+tat solum modum utilem esse in Darii UA,
+SA, SA. v. infra. lt. 12. JJP vel l‘l‘J. om-
+nes inutiles per 0. 10. Item 12. JJS. 101 SSJ.
+01111105, 111 1110 putatur inutiles per 0. 11. 110111
+12. PPS. vel ssl‘. omnes ut ille putatur inuti-
+les per 0, 12. Jam 6. 0 12. 1172. {⁶ 8. rma-so,
+Numerum modorum similium additis variatio-
+nibus conclusionis. 1)155111111051110111511111101110111111-
+
+les vel inaequales. Aequales sunt ex meris vel
+
+ 
+

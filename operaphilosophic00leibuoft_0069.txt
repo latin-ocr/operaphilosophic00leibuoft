@@ -1,0 +1,143 @@
+Π. DE ARTE COMBINATORIA.
+
+77 E. g. in 5. rerum a. b. c.. d. e. lnionibus datum ι tum Β. Quaeratnr medium.
+
+caput a. reperitur 1. viee, (quae est nullio, seu
+
+Ollio (10 4.) datum caput a. b. Ollavice (quae ³
+
+est super Ollio, ut ita dicam de 3.) in 001112011-
+tionibus earundem illud reperitur vicibus 4.
+(quae sunt lniones de 4.) hoc 1. (quae cst 01-
+lio de 3.) in con3nationibus illud 6. (0001200110
+de. 4.) 1100 3, (11110 de 3.) in eon4nationibus illud
+1,) (0003011110 (10.1.) 1100 3. ( 0001200110 de 3 ) in
+con5nationibus utrobique 1 . vice. (illic con4natio,
+1110 0003110110 (10 3.). Hae complexiones sunt
+dato exponente, ex quarum aggregatione oriun-
+tur complexiones simpliciter, sed ct sic: in 5.
+
+rerum complexionibus simpliciter (quae. 511111 3 1.) 3
+
+a reperitur vicibus 15. (complexio simpliciter
+(10 4.) a b 7 (complexio simpliciter de 3.) vici-
+
+7811115. Hae complexiones sunt numerus subjecto-
+
+rum angustiorum dati termini. Subiecta aequa-
+lia, quando definitiones delinitionibus subjiciun-
+
+tur, eadem methodo inveniuntur qua supra 5
+
+praedicata aequalia. Termini enim aequales,
+sunt servata quantitate et qualitate cmivertibi-
+les, igitur ex praedicatis fiunt subjecta et con-
+tra, praedicata autem tot sunt, quot dati ter-
+mini, (cujus subjecta quaeruntur.) termini primi
+
+habent complexiones simpliciter, v. g. -ξ- a. 1. ἵ
+
+a 11. 2. Additis jam subjectis aequalibus ad
+angustiora 1 ’ξ’ 15. f. 16. 2 1· 7. s. 9. prodibit
+numerus subjectorum omnium dati termini. Quem
+
+79 erat propositum invenire. Subjecta hactenus uni-
+
+versalia, restant particularia, ea tot sunt quot
+praedicata particularia. Praedicata et subjecta
+negativa sic invenientur: computentur ex datis
+certis terminis primis tanquam numero rerum.
+omnes termini tam primi quam orti, tanquam
+complexiones simpliciter, v. g. si termini primi
+sint 5 erunt 31. Ι)0 producto detrahantur om·
+
+nia praedicata affirmativa universalia, et sub- ,x
+
+jecta angustiora affirmativa universalia: Resi-
+duum erunt onmia praedicata negativa. De sub-
+jectis contra. Particularia negativa ex univer-
+salibus computentur, uti supra ΡΑ. ex UA.
+computavimus. Omisimus vero propositiones
+identicas UA: quarum sunt tot quot complexio-
+nes simpliciterterminorum primorumg seu quot
+sunt omnino termini et primi et orti, quia qui-
+libet terminus vel primus vel ortus de se dici-
+tur. Caeterum inter complexiones illas omisi-
+mus, in quibus idem terminus repetitur, quae
+repetitio in nonnullis producit variationem in
+infinitum, ut in 1101110115, 01 figuris geometriae.
+
+80 Methodus porro argumenta inveniendi haee est:
+
+Esto datus quicunque terminus tanquam subje-
+ctum, A et alius quicunque tanquam praedica-
+
+Medium erit prae-
+1 dicatum subjecti et subjectum praedicati, id est
+terminus quicunque continens A, et contentus
+1 a B. Continet-e autem terminus terminum dici-
+3 tur. si omnes ejus termini primi sunt in illo.
+1 Fundamentalis autem demonstratio est si uter-
+3* que terminus resolvatur 111 11111005, manifestum
+ἶ 0111 alterum alterius aut partem esse, aut par-
+t tium earundem. Mediorum autem numerum
+
+³. sic inveniemus. Subiectum et praedicatum vel
+sunt in eadem classe, vel diversa. Si in eadem.
+
+ἶ necesse est utriunque terminum 0550 ortum: et
+'⁸ variationem scriptionis saltem 500 definitionis
+ejusdem termini. 1101011011 igitur duae definitio-
+nes ejusdem termini non nisi 1101 tertiam de se
+invicem probari. Igitur de numero definitionum
+ejusdem termini orti, quem investigavimus su-
+1 pra n. 69. subtrahatur 2. residuum erit nume-
+. rus mediorum possibilium inter terminos aequa-
+
+{ catum in classe minoris exponentis, subjectum
+1 111 classe majoris. Jam supponatur praedicatum
+¹ velut caput complexionis, exponens classis sub-
+jecti supponatur pro numero rerum. 1111001110-
+1 tur omnes complexiones dati capitis particulares
+per singulas classes a classe praedicati ad clas-
+sem subjecti inclusiver, in singulis classibus
+complexiones dati capitis particulares ducantur
+in complexiones simpliciter, exponentis ipsius
+classis pro numero rerum suppositi. Aggrega-
+¹ tum omnium factorum subtracto 2. 0111 quaesi-
+
+cile inveniemus, si utroque termino in primos
+resoluto manifestum est neutrum altero conti-
+neri. Probari tamen negativa sic poterit: inve-
+niantur onmia praedicata subjecti, cum de om-
+nibus negetur praedicatum, totidem erunt media
+probandi negativam. Invenianttu‘ onmia sub-
+,' jecta praedicati, cum onmia negentur de subjecto,
+etiam erunt totidem media probandi negativam.
+Utrisque igitur computatis numerum mediorum
+
+denique est, totam hane artem complicatoriam
+directam esse ad theoremata, scu propositiones
+⁵ quae sunt aeternae veritatis, seu non arbi-
+trio DEI, sed sua 01111οῊ constant. Omnes
+vero propositiones singulares quasi histo-
+ricae, V. g. Augustus suit Romanorum
+Imperator, aut obser vationes, id est propo-
+sitiones universales, sed quarum veritas non in
+essentia, sed existentia fundata est; quaeque
+verae sunt quasi casu, id est DEI arbitrio, v. g.
+omnes homines adulti in Europa habent cogni·
+
+tionem DEI: Talium non datur demonstratio
+4
+
+ 
+
+25
+
+les. Sin non sunt in eadem classe, erit praedi· Sl
+
+tum. Praedicatum autem de subjecto negari fa- 82
+
+probandi negativam habebimus. Admovendum 83
+

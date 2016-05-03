@@ -1,0 +1,126 @@
+XXII..
+DEFINITIONES LOGICAE.
+
+(Ex Autograph'is Leibnitii nondum edilis7 in Bibliotheca Regia Hanoverana asservatis).
+
+l. A includere Β, 5011Β includi 1111Α, est: 2
+
+de A, subjecto, universaliter affirmari Β,
+praedicatum. Veluti: sapiens includit ι]’1151ι1111,1100
+051, omnis sapiens est justus
+
+2. A excludere Β, seu Β excludi abAest7
+
+de A, subjecto, universaliter negari Β, praedica-
+tum. Veluti justus excludit 111150111111, 1100 051
+11011115 justus 051 1111501.
+
+3. Qui negat7 A includere Β, 15 (10 quo-
+dam subjecto A negat praedicatum Β, 5011 0111111-
+tiat particularem negativam. ‚Seu qui ne-
+gat justo includi fortunatum, enuntiat quendam
+justum 11011 0550 fortunatum. Nam si 01111115 ju-
+stus esset fortunatus, (intellige qui 051, fuit, fu-
+10105111 051), jam dici 1105501, 0111111, qui justus
+051, 1110550 fortunatum, itaque justus fortunatum
+includet contra hypothesin.
+
+4. Qui negat A excludere Β, 15 (10 quo-
+dam subjecto A affirmat praedicatum Β, 500 enun-
+tiat particularem affirmativam. Qui ne-
+gatasapiente excludi fortunatum, enuntiat quen-
+dam sapientem esse fortunatum.
+
+5. Si ex pluribus enuntiationibus sequatur nova
+enuntiatio, et haee sit salsa, 0111 aliqua ex illis
+falsa. Est collectio per regressum.
+
+6. Confi-mlictoriae (5011 quarum una affirmat,
+quod altera negat) non 1105511111 51111111 0550 vera,
+nee simul 0550 salsa et 1100 vocant 0 pposi-
+tionem.
+
+7. Ex universali sequitur particularis ejusdem
+naturae quod vocant 5 u 110 1 10 1· 11 ation 0111. Nempe
+51 A includit Β (5001101 num l) 51 0111110 A 051
+Β, sequitur quod A non excludat Β, 5011 (per
+num-4.) quoddam A 0550 Β. Rursus 51 excludit
+Β, seu (per 1111111. 2.) si nullum A 051 Β, 501101-
+tur quod A 11011 includat Β, 5011 (1101 num. 3.)
+quoddem A nou 0550 Β.
+
+8. Si A excludit Β, vicissim Β excludit A.
+Hoc cst fundamentum conversionis simpli-
+citer saetae. Nam hine (11012.) 51 11111111111
+Λ est Β, etiam nullam Β 051 Α, 01 (per Δ1.) 51
+quoddam A 051 Β, etiam quoddam Β est A.
+
+tur conversio per accidens.
+ergo quoddam Β est A.
+
+= includit Β, utique A excludit C.
+
+10. Notatu tamen dignum 051, tam subalter-
+nationem quam conversionem 110550 demonstrari
+ope syllogismorum.
+
+12. syllogismus Categoricus simplex
+051, qui de inclusione 1·οΙ exclusione duorum ter-
+minorum inter 50, aliquid per data (10 inclusione
+vel exclusione tertii respectu singularum.
+
+13. Includens includentis est 111010110115111011151,
+seu 51 A includit B et Β includit C, etiam A
+includet C.
+
+14. Includcns excludentis 051 excludens exclusi,
+5011 51 A includit Β 01 Β excludit C, etiam A
+excludet C.
+
+15. Includens excludentis est exclusum exclusi,
+seu 51 A includit B et B excludit (3, etiam C
+excludit A. Sequitur ex praecedente7 accedente
+No. ὃ. —- Hine mutando C in Α, et contra, ex—
+clusum (A) inclusi (Β) 051 exclusum includentis
+
+, (C) B excludit A, et C includit Β, Ergo A ex-
+
+cludit C.
+
+16. Excludens inclusi 051 excludens includen-
+115, 5011 51 A excludit Β 01 Β includitur in C,
+etiam A excludit C7 seu si A excludit Β, ct C
+Patet per 50.
+
+17. Si A excludit Β et G includit Β, ctiam
+C excludit A 5011 excludens inclusi 051 exclusum
+includentis. 5011011111· cx praecmlente ope 8. Hinc
+51 permutes C 01 Α, 11011 51 A includit Β 01 C
+excludit Β, etiam A excludit C (seu includens
+exclusi est excludens excludentis).
+
+(a 1111. ass. e. 1111. neg. i pari. ass. o part. neg.)
+
+18. Regulam primam sic enunties: Medium
+subjecto inclusum ctiam praedicatum> sibi inclu—
+sum (101 exclusum), ei includi (vel excludi) osten-
+dit. llinc dispositione terminorum existente Bc.
+AB. AC. ex inclusione fit aaa, unde subalter-
+nando aai, ex· exclusione 111 eae, unde subal-
+tcrnando tit eao7 sed quia c. BC inferri potest,
+ex 0 CB, hinc tit e. CB, a. AB, 0. Ac, et sub-
+
+* alternando 0. ΟΒ, a AB, 0 AC.
+
+19. Regulam secundam 510 enunties: Medium
+
+, subjecto exclusum ctiam praedicatum, 50 inclu-
+9. Si A includit Β, 111110 (per 1 et 4.) nasci· ’
+
+Omne A est Β, ’
+
+(10115, subjecto excludi ostendit. Hine fit a CB,
+e ΑΒ, 0 (vel o) AC: qui modus cum per con-
+
+, versionem simpliciter ipsius e AB in e BA se-
+

@@ -1,0 +1,137 @@
+ΙΙ. DE ARTE COMBINATORIA.
+
+5 Majoris lucis causa apposuimus Tabulam 11.
+ubi lineis transversis distinximus Con3nationem
+de 3. 01 de 4. et de 5. Sic tamen 111 001131111-
+1101105 11110105 51111 sequenti communes, 01 per
+consequens tota tabula sit con3nationum nu-
+meri 5. utque. manifestum esset quae reon3natio-
+nes numeri sequentis ex com2nationibus ante-
+cedentis addito singulis novo hospite orirentur,
+linea deorsum tendente combinationes a novo
+hospite distinximus.
+
+6 TAss. Η. Adjiciemushic'l‘heoremata
+l a b 0 3 (1110111111 τὸ ὅτι ex ipsa tabula
+
+Ι. manifestum 051, τὸ dion
+ex tabulae fundamento: 1. si
+
+Ξ 2 a b d Ξ
+Ξ 3 a 0. d ἔ exponens est major numero,
+ξ 4 b 0 d Ξ complexio 051 Ο. 2. Si aequa-
+m: — — lis, ea est 1. 3. Si exponens
+ὃ 5 1111 0 4 051 1111111010 unitate minor,
+ἒ, 6 a 0 0 complexio 01 111111101115 511111
+Ξ 7 a d e idem. 4. Generaliter: expo-
+Ξ 8 b 0 0 ἒ 11011105 duo in quos munerus
+9 b d 0. ἕ 1115001111 potest, 5011 (1111 51111
+10 c d 0 Ξ invicem complemento sunt ad
+5 numerum easdem de illo nu-
+
+mero habent complexiones. Nam 011111 111 1111111-
+mis exponentibus l. et 2. 111 (111115 bisecatur nu-
+
+merus 3, 111 verum 511 (1111151 casu, per tab. Ι. ,
+
+01 vero caeteri ex 00111111 additione oriantur per
+solut. probl. 1. 51 aequalibus (3 01 3.) addas
+aequalia (superius l. et inferius l.) producta
+0111111 aequalia (3 -1-1. f. 4 zi.) et idem eve-
+niet 111 caeteris necessitate. 5. 51111111101115051,
+111111111, dantur in medio duae csunplexiones sibi
+proximae aequales, sin par, id non evenit. Nam
+numerus impar biseeari 1101051. 111 duos exponen-
+tes proximos unitate distantes, v. g. l -Ι-2.1“. 23.
+par vero non potest. Sed proximi in quos bi-
+5001111 par potest sunt. iidem, quia iejitur in duos
+exponentes impar numerus bisecari potest, hine
+
+duashabet complexiones aeq ual es perth. 4. quia 1
+’ 11115 progressionis ei e regione respondens demta
+
+illi unitate distant, proximas. G.Co1nplexiones
+0105011111 usque ad exponentem 1111111010 ipsi di-
+midium aut duos dimidio proximos, inde ite-
+rum decrescunt. 7. (11111105 1111111011 primi 1110-
+1111111111· 511115 complexiones particulares (seu
+dato exponente). S. Omnes complexiones sim-
+pliciter, 511111 1111111011 impares l).
+
+¹) Omnia hactenns tractata Leibnitius jam
+ante ipsam dissertationem ediderat 51111 titulo:
+„Disputatio arithmetica, tle eoinpleximiilnts. (tuam
+„in illustri Academia Lipsiensi indultu amplissimae
+
+„facultatis philosophicae pro loco in ea obtinendo !
+
+Restat hnjiis problematis altera pars quasi
+specialis: »dato Numero (A) com2nationcs (B)
+»ι invenire. Solutio: ducatur numerus in proxime
+»minorem, sacti dimidium erit quaesitum,
+»A 0 A -‹ l.„ φ 2. = B. Esto v. g. Numerus
+»6, ⁰⁴ 5. t'. 30. φ 2. s. 15.‹= Ratio solutionis:
+esto Tab. Ill. in qua enumerantur vi. rerum,
+
+TAB. 111. abedef, com‘Znationes possi-
+ab ao ad a e. a 1 biles, prima autem res a ducta
+. 110 b d 110 bf per caeteras facit 0011121111110-
+. 0(1 00 cf nesV. nempe ipso numero uni-
+. dedf tate minores3 secunda b per
+. ef caeteras ducta tantum IV. non
+enim in antecedentem a duci
+potest, rediret enim prior 0011121111110 11 a vel ab
+(haec enim in negotio combinationis nihil diffe-
+runt) ergo solum in sequentes quae sunt lv,
+similiter tertia 0 111 sequentes ducta facit Ill.
+quarta d. facitH. quinta e. 011111 ultima f. facit I.
+sunt igitur con‘Znationes 5. 4. 3. 2. 1.-1-1. 15.
+ita patet numerum com‘Znationum componi ex
+terminis progressionis arithmeticae, cujus diffe-
+rentia: l., numeratis ab l. ad numerum nu-
+mero rerum proximum, 1110111511*ος sive ex om-
+nibus muneris numero rerum minoribus simul
+additis. Sed quia uti vulgo docent arithmetici,
+tales numeri 1100 00111110111110 adduntur, ut maxi-
+mus numerus ducatur in proxime majorem, sa-
+cti (111111111115 511 quaesitus, et vero proxime ma-
+jor h. l. est. 11150 numerus rerum, igitur perinde
+est ae 51 dicas: Numerum rerum ducendum in
+proxime minorem, facti dimidium fore quae-
+situm.
+
+PROBL. ΙΙ.
+DATO NUMERO COMPLEXIONES
+SIMPLICITER INVENIRE.
+
+Datus munerus quaeratur inter exponentes pro-
+0105510015 geometricae duplae, numerus seu termi-
+
+Unitate erit quaesitum. Rationem, 5011
+·τὸ (111111. difficile est vel concipere, vel 51 eonce-
+peris explicare. τὸ Su ex tabula Ι. manifestum
+051. Semper 0111111 complexiones particulares si-
+mul additae addita unitate termimun progres-
+sionis geometricae duplae constitucnt, cnjus ex-
+ponens sit muneras datus. Ratio tamen, si quis
+
+..marn 1666. 11. L. o. cf‘ — cui disputationi, cum
+pro 10011 obtinendo haberetur, pro illius temporis
+inore academico, corollaria adnexa sunt ad sine-‘11-
+
+..prima viee habehit¹ Μ. Gottfre 11115 G uillelmus 1 las⁴ philosophiae partes spectantia, quae 111 Appen-
+
+„Leihntizius Lipsiensis. J. U. Baccal. 11. 7.
+
+ 
+
+dice citabimus. ff
+¹s)
+
+.-
+
+11
+7
+
+w
+

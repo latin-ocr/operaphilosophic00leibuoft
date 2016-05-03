@@ -1,0 +1,146 @@
+tce
+
+11. DE ARTE COMBINATORIA. 9
+
+modo in situ absoluto seu partium cum 1010,
+Ordine: posteriori in situ relato seu partium
+ad partes, Vicin it a te, quae quomodo diffemnt
+infra dicemus def. 4 et 5. Haec prooemii 1000
+sufficiant, ut qua in disciplina materiae huJ'us
+sedes sit, tiat manifestum.
+
+DEFINITIONES.
+
+1. Variatio 11. 1. 051 mutatio relationis. Mutatio
+enim alia substantiae est, alia quantitatis, alia
+qualitatis: alia nihil in re mutat, sed solum re-
+spectum, situm, 00111011011011010 011111 alio aliquo.
+
+. Variab ilitas est ipsa quantitas mnniumvaria—
+tionum. Termini enim potentiarum in abstracto
+sumti ‹piantitatem earum denotant, ita enim 111
+Mechanicis frequenter 1000110101, potentias ma-
+chinarum duarum duplas csse invicem.
+
+. . Situs est localitas partium.
+
+. Situs est vel absolutus vel relatus: illc partium
+00111 toto, hic partium ad partes. In illo spe-
+ctatur mnncrus locorum et distantia ab initio
+et tine, in boc neque initium neque finis intel-
+ligitur, sed spectatur tantum distantia partis a
+(lata parte. Hinc ille exprimitur linea aut li-
+neis figuram non claudentibus neque in se red-
+euntibus, et optime linea recta: 1110 linea aut
+lineis figuram claudentibus, et optime circulo.
+[n illo prioritatis et. posterioritatis ratio habe-
+tur maxima, in hoc nulla. Illum igitur optime
+Ordinem dixeris,
+
+. Hunc vicinitatem, illum dispositionem, hunc
+compositionem. Igitur ratione ordinis ditt‘emnt
+situs sequentes: abed. bcda. edab. dabc.
+At 111 Vicinitate nulla variatio, sed unus b
+situs esse intelligitur, 1110 nempe: a c
+Unde festivissinuisT a 0 b ma n 11 u s, cum d
+Decanus Facultatis philosophicae esset, dieitur
+Witebcrgae in publico proeranunate seriem can-
+didatorum Magisterii circulari dispositione com-
+plexus, ne avidi lectores intelligerent, quis suil-
+lum locum teneret.
+
+. Variabilitatem ordinis intelligemus fere. quando
+
+ponemus Variationos κατ’ ἐξοχὴν v. «r
+
+Res IV. possunt transponi modis 24. e
+. Variabilitatem complexionis dicimus Com-
+plexioncs. v, g. Res IV. modis diversis
+15. invicem conjungi possunt.
+S. Numerum rerum variantlarum dicemus simpli-
+citer, Numerum, v. g. IV. in casu propo-
+si t 0.
+9. Com plexio, est unio minoris totius in majori,
+
+uti in prooemio declaravimus.
+
+10. Ut autem certa complexio determinetur, majus
+
+13.
+
+totum dividendum est in partes aequales sup-
+positas ut minimas, (id cst quae nune quidem
+non ulterius dividantur) ex quibus componitur
+et quarum variatione variatur complexio seu
+totum minus, quia if-‘itur totum ipsum minus,
+majus minusve est, prout plures partes una vice
+ingrediuntur: numerum simul ac semel conjun-
+gendarum partium, seu unitatum, dicemus Ex-
+ponentem, exemplo progressionis geometri-
+cae, v, g. sit totum ABCD. Si tota minora con-
+stare debent cx 2. 1101111105, v, g. AB. AC. AD.
+BC. BD. CD. exponens erit 2. sin extribus,
+v. g. ABG. ABD. ACD. BCD. exponens 01113.
+
+. Dato exponente complexiones ita scribemus:
+
+si exponens est 2. Com‘Znationem (eom-
+binati0nmn)·, si 3. Con3nationem (con-
+ternatione1n)3 si 4. Con4nationem, etc.
+
+. Complexiones simpliciter sunt onmes
+
+complexiones omnium exponentium computa-
+tae, v. g 15. (de 4. Numero) quae componun-
+tur ex 4. (Unione) (3. (com‘Znatione) 4. (con-
+3natione) l. (con4natione).
+
+Variatio utilis (inutilis), est quae pro-
+pter materiam subjectam locum habere 11011
+potest: v. g. 4. Elementa eom‘Zuari possunt¹ 6.
+modis: sed duae eom‘Znationes sunt inutiles,
+nempe quibus contrariae Ignis, aqua, aer, terra
+00012000101.
+
+. Classis reru m est totum minus, constans ex
+
+rebus convenientibus in certo tertio, tanquam
+partibus: sic tamen ut. reliquae classes conti-
+neant res contradistinctas. v. g. infra probl. 3.
+ubi de classibus opinionum circa summum bo-
+num ex B. Augustino agemus.
+
+ς . Caput V a riationis est positio certarum par-
+
+ti11m3F01·111a variationis, onmium, quae
+in pluribus variationibus obtine-t. v. infra
+probl. 7.
+
+Nariationos communes sunt in quibus
+
+plura capita concurrunt, v. infr. probl. S et. 9.
+
+. Res homogcnea est quae est aeque dato
+
+1000 ponibilis salvo capite. Monadica autem
+quae non habet homogeneam. v. probl. 7.
+
+. Caput multiplica bile dicetur, cujus partes
+
+possunt variari.
+
+. Res repetita est quae in eadem variatione
+
+saepius ponitur. v, probl. 6.
+
+⁴ . Signo † designamus additionem, ⁸- subtractio-
+
+nem, 0 multiplicationem, Ο divisionem, s. fa-
+cit, seu summam, = aequalitatem. In priori-
+bus duobus et ultimo convenimus 011111 Car-
+tesio, Algebraistis, aliisque: Alia signa ba-
+bet 1530005 Barrowius in sua editione
+
+Euclidis, Cantabrig. SVO, anno 1655.
+2
+

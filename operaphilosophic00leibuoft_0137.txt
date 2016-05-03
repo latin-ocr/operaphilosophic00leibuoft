@@ -1,0 +1,157 @@
+xvlu. FUNDAMENTA CALCULI RATIOCINATORIS.
+
+braicas aliasque onmes quibus inter cogitandum pro
+rebus utimur.
+
+Signa autem scripta, vel delienata vel sculpta
+characteres appellantur. Porro tanto utiliora
+sunt signa, quanto magis notionem rei signatae ex-
+primunt, ita ut non tantum repraesentationi, sed 01
+ratiocinationi inservire possint.
+stant characteres chemicorum aut astronomorum,
+nisi quis cum Johanne Dee, autore monadis hie-
+
+1
+1
+
+l
+
+93
+
+hiberi. Cum 31110111 11011(111111· 0011511111010 licuerit,
+quomodo signa formari debeant, interdum pro ipsis
+in futurum formandis exemplo Mathematicorum
+utamur literis Alphabeti aliisve notis arbitrariis
+quibuscunque, quas progressus aptissimas suppedi-
+
+ἵ tabit. Qua ratione etiam apparebit ordo scientia-
+Tale nihil prae· ι
+
+111111 0113130101151100 111101313111111, 01 105 ipsa docebit,
+
+¹ Arithmaticam elementarem esse elementis calculi
+
+roglyphicae, mysteria nescio quae in illis venari Ἰ
+
+110550 speret. Nec puto Chinensium figuras aut
+Aegyptiorum inveniendis veritatibus multum prod-
+esse posse. Lingua Adamica vel certe 115 ejus,
+(1113111 (1111(10111 50 110550 01 111 nominibus ab Adamo
+impositis essentias rerum intueri posse contendunt,
+nobis certe ignota est. Linguae vulgares etsi pluri-
+
+culi facere possunt nempe ut errores ratiocinatio-
+
+ctione detegi possint, tamquam soloecismi et barba-
+rismi. Quod sane admirabile beneficium hactenus
+solae praestant notae Aritlnneticorum et Algebri-
+starum, ubi ratiocinatio 01111115 111 11511 characterum
+consistit 01 1(10111 051 error animi qui calculi.
+
+Mihi vero rem altius agitanti dudum manifeste
+apparuit, 01111105 111111131135 cogitationes in paucas
+admodum resolvi tamquam primitivas. Quod si
+his characteres assignentur, posse inde formari eha-
+racteres notionum derivatarum, ex quibus semper
+onmia eorum requisita notionesque primitivae in-
+
+reS, et proinde et affectiones ex definitionibus de-
+
+monstrabiles, erui possent. Hoc uno autem praestito, j characteristica quoque, 1113 minus cst simplex. Pa-
+
+Logici, de figuris modisque agentis, priorem sim-
+plicioremque.
+
+Esto character quilibet A vel Β, vel alia nota.
+
+Compositum ex pluribus characteribus vocetur
+Formula.
+
+Si formula quaedam aequivaleat characteri, ita
+ut 51111 mutuo substitui possint, ea formula dice—
+
+tur valor characteris.
+mum prosint ad ratiocinandum, attamen innumeris
+aequivocationibus sunt obnoxia, nec officium cal· 3
+' est ejus significatio.
+nis ex ipsa vocabulorum formatione 01 001151111- ’
+ᾖ salvis calculi legibus, dicetur esse aequipollen-
+
+Yalor primigenius characteris, qui scilicet pro
+arbitrio ei assignatur nec probatione opus habet,
+
+Inter ea quoium unum alteri substitui potest.
+
+tiam.
+
+Praeter aequipollentiam dantur aliae relatio-
+nes complures, quas res ipsa monstrabit, 1. g. in-
+clusiones, similitudines, determinationes, de quibus
+suo 1000. Ε1 proinde relationes sunt ad characte-
+res atque formulas, ut enuntiationes se habent ad
+notiones, sive secunda mentis operatio ad primam.
+
+Calculus vel operatio consistit in relationum
+productione, facta per transmutationem formularum,
+
+= secundum leges quasdam praescriptas factis. Quanto
+gredientes, et ut verbo dicam definitiones sive valo· ’
+
+quisquis characteribus hujusmodi inter ratiocinan- ’
+
+dum scribendumque uteretur, aut numquam labere-
+tur, aut lapsus suos ipse non minus atque alii sem-
+per facillimis examinibus deprehenderet, inveniret
+praeterea veritatem quantum ex datis licet, et sic-
+ubi data ad inveniendum quaesitum non essent suf-
+ficientia, videret quibusnam adhuc experimentis vel
+notitiis esset opus quin saltem accedere posset ve-
+ritati, quantum ex datis possibile est sive appropin-
+quando, sive gradum maioris probabilitatis deter-
+minandog sophismata autem et paralogismi nihil
+hic aliud forent quam quod errores calculi in Arith-
+
+111011015, 01 501000151111 01 barbarismi in linguis. Cum ¹
+
+igitur hac arte characteristica cujus ideam animo
+concepi, verum organon scientiae generalis 0111-
+11111111, (11130 sub humanam ratiocinationem cadunt,
+
+autem plures leges sive conditiones calculaturo
+praescribuntur, eo magis compositus est calculus et
+
+tet igitur, formulas (sub quibus, tamquam simpli-
+eissimos, licet comprehendere ipsos characteres) re-
+lationes et operationes se habere ut 1101101105, 0111111-
+1131101105 01 syllogismos.
+
+Character dicetur ingredi formulam, 111 (1113
+expresse ponitur, involvi autem dicetur, si saltem
+per substitutionem aequipollentium effici potest, ut
+tum denium ingrediatur. s
+
+fharacteres formulam ingwcdiuntur vel abso-
+lute sen simpliciter, vel sub modificatione
+certa, sive relatione ad alium characterem, verbi
+gratia si sit formula A (B). C, cnm A et C ingre-
+diuntur recte, at B oblique sub A. Fieri etiam
+
+{ potest ut omnes characteres formulam sub modifi-
+
+sed perpetuis calculi evidentis demonstrationibus ¹
+vestitum, contineatur, opus erit ipsam quoque cha- 1 demum characterem rectum ex ipsis conflatum sive
+
+racteristicen nostram, seu artem signis exacto quo· 1
+
+dam calculi genere utendi, quam generalissime ex-
+
+ 
+
+ 
+
+catione ingrediantur ut si sit: AB. C. LMN. ubi
+A. Rc. simul, 00110 modo concurrentes constituiult
+
+compositum, itemque faciunt L.M.N. quodsi cha-
+racter absolute positus sit expressus aliter quam
+

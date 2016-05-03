@@ -1,0 +1,126 @@
+12
+
+curiosius investiget petenda crit ex discerptione
+
+9 in practica Italica usitata, vom Scrffisscll. Quae
+talis esse debet, ut datus terminus progressionis
+geometricae discerpatur una in plures partes,
+quam sunt unitates exponentis sui, id est nu-
+meri rerum, quarum semper aequalis sit prima
+ultimae, secunda penultimae, tertia antepenulti-
+mae etc„ donee vel, si in parem discerptus est
+numerum partium exponente seu numero rerum
+impari existente, in medio duae correspondeant
+partes per probl. 1. th. 5. (v. g. 128. de 7. dis-
+cerpantur in partes Β. juxta tabulam I. 1. 7. 21.
+35. 35. 21. 7. l.) vel si in imparem exponente
+pari existente, in medio relinquatur unus nulli
+correspondens (v. g. 256. de S. discerpantur in
+partes 9. juxta Tab. I. 1. 8. 28. 56. 70. 56.
+28. S. 1.) Putet igitur aliquis ex eo manife-
+stum esse novum modum, eumque absolutum,
+solvendi probl. 1. scu dato exponente. inveniendi
+numerum complexionum, si nimirum ope Alge-
+brae inveniatur discerptio complexionum sim-
+pliciter seu termini progr. geom. duplae juxta
+modum datum. Verum non sunt data sufficien-
+tia, et idem numerus in alias atque alias partes
+eadem tamen forma discerpi potest.
+
+-USUS Pnom.. l. et 11.
+
+Cum omnia quae sunt aut cogitari possunt,
+sere componantur ex partibus aut realibus aut
+saltem eoneeptualibus, neeesse est quae specie
+diiii-runt aut eo differre, quod alias partes ha-
+bent, et liic. e om plexion u ni usus, vel quod alio
+situ, liic D i spo sit ion u m ς illic materiae, hie for-
+mae diwrsitate cenwntur. Imo Complexionuin
+ope non solum species reruni, sed et attributa
+inveniuntur. Ut ita tota propemodum Logicae
+pars inventii* a illie circa terminos simplices,
+liic cirea complexos fundetur in ‹·‹2›1111·›lexi011i1›us3
+uno verbo ct doctrina divisionum ct doctrina
+pro posi t i onum. Ut taceam ‹plantopere partem
+logices Analyticam, seu judicii diligenti de mo-
+dis syllogisticis s‹‘¹rutatione exemplo 6. illustrare
+11 speremus. ln divisicmibus triplex usus est. com-
+plexionum, l. dato fundamento unius divisionis
+inveniendi speeies eius3 2. datis pluribus divi-
+
+10
+
+sionibus de etalem genere, inveniendi species ex
+«liversis divisionibus mixtas, quod tamen serva-
+bimus problemati λς 3. datis speciebus inve-
+l⁴2xemp1a per totam
+philosophiam dillusa sunt, imo nec Jurispruden-
+
+niendi genera subalterna.
+
+tiae deesse ostvmlenms, apud Mean-os vero om-
+nis varietas me<licamentorum composit(›rum et
+(μαψιακυπωιητική ex rariorum ingredientium
+mixtione oritur, at in eligendis mixtionibus
+
+ΙΙ. DE ARTE COMBINATORIA.
+
+utilibus summo opus judicio est. Primum igitur
+exempla dabimus specierum hae ratione inve-
+niendarum: I. apud ICtos l. 2. D. M a n d ati, et 12
+pr. J. de Ma nd ato haee divisio proponitur:
+Mandatum contrahitur 5. modis: mandantis
+gratia, mandantis et mandatarii, tertii, mandantis
+et tertii, mandatarii et tertii. Sufficientiam divi-
+sionis bujus sic, venabimur: Fundamentumejus est
+finis ᾧ, seu persona cujus gratia contrahitur, ea
+est triplex: mandans, mandatarius ct tertius.
+Rerum autem trium complexiones sunt 7 τ Iniones
+tres: cum solius 1. mandantis, 2. man data-
+rii, &tertii gratia contrahitur. Com2nationes
+totidem: 4. Mandantis et Mandatarii,
+5. Mandantis et. Tertii, 6. Mandata-
+rii et Tertii gratia. Con3natio una, nempe
+7. et mandantis et mandatarii ct ter-
+tii simul gratia. Hie ICti Inionein illam,
+in qua contrahitur gratia mandatarii solum,
+rejiciunt velut inutilem, quia sit consilium
+potius quam mandatum, remanent igitur spe-
+cies 6. sed cur 5. reliquerint, omissa eonssna-
+tione, nescio. II. Elementorum munerum, seu 13
+corporis simplicis mutabilis species Aristote-
+les libr. 2. de Gen. cum Occllo Lucano Py-
+thagorico deducit. ex numero qualitatum prima-
+rum, quas 4 esse supponit, tanquam fundamento,
+liis tamen legibus, ut 1. quodlibet componatur
+ex dual as qualitatibus et neque pluribus neque
+paucioribus, bine manifestum est lniones, con-
+3nationes et con4nationem esse abjiciendas, so—
+las coni‘Znationcs retinendas, (lime sunt 6.3 2. ut
+nunquam in unam com‘Znationem veniant. qua-
+litates contrariae, hinc. iterum duae eom‘Znatio-
+nes tiunt inutiles, quia inter primas has qualita-
+tes dantur duae contrarietateS, igitur remanent
+c‹:›1n‘211at1011‹·s 4, qui est numerus elementorum.
+Apposuimus Schema, (vide paginam titulo tra· 14
+ctatus proximam) quo origo l⁴Ilemcntorum ex
+primis qualitatibus luculenter demonstratur.
+Porro uti ex bis illa Aristoteles, ita ex illis
+4 temperamenta Galenus, horumque varias
+mixtiones medici posteriores elic-new: quibus·
+omnil »us jam superiori seculo se opposuit (J 1 a ud.
+Campi-usius animadvers. natural. in Arist.
+et (ἰ“ alen. adject. ad (Ioni. ej. in Aph. llippo c r.
+ed. ὃ.
+comnnmiter ab Aritlnneticis distinguitur in Nu—
+merum stricte dictmn ut 23. l⁴¹ractnm, ut Ϊξ,
+Surdum ut Rad. 3. id est munerum qui in
+se ductus eflicit 3, qualis in rerum natura non
+est, sed anzdogia intelligitur, et denomi-
+natum, quem alii vocant. figuratum, v. g.
+quadratum, cubicum, pronicum. Ex horum eom-
+
+Lugduni anno 1576. 111. ’ΝυιιιιϊυεΙ5 l
+
+ 
+

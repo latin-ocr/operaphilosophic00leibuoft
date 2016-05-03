@@ -1,0 +1,128 @@
+24
+
+7 2 minum scribi posse..
+
+jecti praedicata sunt omnes termini primi ejus:
+Item omnes orti primis propiores, quorum om-
+nes termini primi sunt in dato. Si igitur ter-
+minus datus qui subjectum esse debet scriptus
+est terminis primis, facile est cos primos qui de
+ipso praedicantur invenire, ortos vero etiam in-
+venire dabitur, si in complexionibus disponendis
+ordo servetur. Sin terminus datus scriptus est or-
+tis7 aut partim ortis, partim simplicibus, quicquid
+praedicabitur de orto 01115, (10 dato praedicabi-
+tur. Et haec quidem onmia praedicata 511111 111-
+tioris de angustiori, praedicatio vero aequalis
+de aequali 051, quando definitio de termino7 id
+est vel onmes termini primi ejus 51111111, vel orti,
+aut orti et simplices in quibus (11111105 illi primi
+continentur, praedicantur ‹le dato. Eae sunt
+tot, quot modis nuperrime diximus, unum ter*-
+Ex bis jam facile erit 110-
+meris investigare onmia praedicata quae de
+omni dato subjecto praedicari possunt, seu om-
+ncs U. A. propositiones (10 dato 501110010, 1111111-
+rum singularum classium a prima usque ad clas-
+sem dati inclusive, numeri ipsas denominantes, seu
+exponentes ponantur ordine, v. g. 1. ((10011155011110)
+2111021111) 3. 1010. Unicuique tanquamnonjam
+amplius exponenti sed numero assignetur sua
+complexio simpliciter, v, g. 1. 3. 7. 15. quae-
+rantur complexiones particulares numeri classis
+ultimae seu de qua 051 terminus (1111115, v. g. (10
+4. cujus complexio simpliciter 15, lniones 4,
+com‘Znationes 6, 00031111110005 4. 0004011110 l.
+singulae complexiones simpliciter classium mul-
+tiplicentur per complexionem particularem clas-
+sis ultimae quae habeat exp‹‘›11‹‘*nte111 eundem
+cum numero suae classis, v. gg. l 0 4 f.4. :3 (Ἴ
+6. f. IS. 4 (Ἰ 7. f. 23. 15 (Ἴ 1. f. 15. aegre-
+gatum omnium sactorum crit numerus omnium
+praedicatorum de dato subjecto ita ut propositio
+sit U. A. v. g. 4. 18. 28. l5. -1-. f. 65. Prae-
+
+73 dicata per propositionem ΡΛ 500 numerus pro·
+
+positionum particularium affirmativarum ita in*
+vestigabitur: inveniantur praedicata UA. «lati
+termini, uti nuper dictum 0511 01 subjecta UA
+uti mox dicetur. Addatur numerus uterque,
+quia ex U. A. 111011051110110, oritur l‘. A. tum per
+conversionem simpliciter, tum per subalterna-
+tionem. l'roductum erit quaesitum. subjecta
+
+74 in propositione U. A. dati termini, 5001 tum
+
+omnes termini orti in quibus terminus datus to—
+tus continetur. quales 51101. solum in classibus
+50110011111105, et hinc oritur subjectum anaustffls,
+tum (1111005 termini orti qui eosdem cum (11110
+liabent terminos simplices, uno 101110 eiusdem
+termini definitiones, seu variationes 011111 scri-
+
+ 
+
+11. DE ARTE COMBINATORIA.
+
+bench, invicem, sunt sibi subjecta aequalia. Nu-
+merum subjectorum sic computabimus: in ve-
+niatur numerus omnium classium. Eae
+
+v autem sunt tot, quot. termini sunt primi in
+
+prima classe, v. g. sunt termini in prima
+classa tantum 5 , erunt classes in univer-
+sum 5. nempe in lma 10101105, 111 2da 0011121111-
+1101105, 111 31111 0011311111101105, 111 4111 0004011110·
+1105, 111 5ta con5nationes. ita erit inventus
+etiam numerus omnium classium se-
+quentin 111, subtrahendo numerum classis ter-
+mini dati, v. g. 2. de, numero classium in uni—
+versu-1117 5., remanebit 3. 'Numerum autem clas-
+sium seu terminorum primorum supponamus
+pro numero rerum, numerum classis pro expo-
+nente, erit numerus terminorum in classe idem
+011111 complexionibus particularilnis dato numero
+et exponente. v· g. de 5. rebus lniones sunt 5,
+001112311111101105 10, 00040111101105 5, 0005011110 l.
+tot igitur erunt 111 singulis classibus exponenti
+corresp01alentibus termini. supposito quod ter-
+mini primi sint 5. Praeterea terminus datus
+cujus subjecta quaeruntur respondebit capiti
+complexionum3 subjecta angustiora ipsis com-
+plexionibus quarum datum est caput. Igitur
+dati termini subjecta angustiora inveniemus si
+problema hoc solvere poterimus: »Dato capite
+»complexiones inveniri-3 partim simpliciter,
+»(1111 ile-*ememus subjecta angustiora onmia)
+»partim particulares. seu dato expo·
+»nenio (ita hivenienuis ea tantum (10110 sunt
+»in data classe). Problema 1100 statim imprae-
+»sentiarum solvemus, ubi manifestus ejus usus
+»051, ne ubi seorsim 110511011111115, noris exem-
+»plis 11011001111105. Solutio igitur llaec cst: Sub-
+»trabatur de numero rerum, v, μζ. 5. a. b. 0. d. e.
+»exponens capitis (11111, v, 3.». 11. b. 2. — 5. f. 3.
+»aut a. 1. — 5. f. 4. Sive supponmnus datum
+»caput 1111011011, sive. 00111201111000111 055ος 00111-
+»plexio enim ut sit necesse est. Proposito item
+»exponente subtrahatur de eo itidem exponens
+»capitis dati. Igitur: 51 datus sit quicunque ex-
+»11000115 in eujus complexionibus (1001105 datum
+»caput reperiatur invenire sit propositum: quae-
+»ratur complexio exponentis tanto minoris dato.
+»quantus est exponens capitis dati, in numero
+nicrum, qui sit itidem tanto minor dato, (101111-
+ntus est exponens capitis dati per tabl. probi. 1.
+»inventum crit quod quaerebatur. At si com-
+-plexiones simpliciter capitis dati 111 omnibus
+»complexionilnis dati numeri qum-unque expo-
+mente, quaerere propositum sug complexio nu-
+»meri rerum, numero dato tanto minoris. (1111111-
+»1115 cst exponens capitis (11111, erit quaesitum:«
+
+75
+
+ 
+

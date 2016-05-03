@@ -1,0 +1,136 @@
+25 Post martios labores,
+‘26 Et Caesarum parantes
+27 Virtutibus, per orbem
+‘28 Tot laureas virentes,
+29 Et Principis trophaea3
+30 Felicibus triumphis
+
+31 Exsultat omnis aetas,
+32 Urbesque flore grato,
+33 Et frondibus decoris
+34 Totis virent plateis.
+:35 Hinc ordo veste clara
+36 In purpuris honorum
+37 Fausto precantur ore,
+38 Feruntque dona laeti.
+39 Jam Roma culmen orbis
+40 1)111 numera et coronas
+41 Auro ferens coruscas
+42 Victorias triumphis,
+
+43 Votaque jam theatris
+44 Redduntur et Choreis.
+45 Me sors iniqua laetis
+46 Solemuibus remotum
+47 Vix haec sonare sivit
+48 Tot vota fronte Phoebi
+49 Versuque comta sola,
+50 Augusta rite 500115.
+
+1
+
+1
+
+³ »mogeneann productum A 0111 quaesitum.
+² »multiplicabile, 01 constat 1. 10 habente homogeneam, productum
+, »A multiplicetur numero homogenearum aeque in 1110 capite poni-
+
+ 
+
+11. DE ARTE CthINATORIA. 39
+
+PROBL. VII.
+DATO CAPITE VARIATIONES REPERIRE.
+
+Hoc in complexionibus solvimus supra. De situs variationibus l
+nunc: Sunt autem diversi casus. Caput 0111111 variationis hujus aut
+
+1 001151111 una 10, 11111 pluribus: si una, ea vel monadica 051, 101 dan-
+
+tur inter res (variandas) alia aut aliae ipsi homogeneae. Sin plu-
+ribus constat, tum vel intra caput dantur invicem homogeneae vel
+non, item extrinsecae quaedam intrinsecis homogeneae 511111 101
+11011. »Primum igitur capite variationis fixo manente numerentur
+» res extrinsecae, et quaeratur variatio earum inter 50 (01 51 51111
+»discontiguae seu caput inter eas ponatur) praeciso capite, per
+»prob. 4. productum 10001111 A. Si caput multiplicabile nonest,
+»seu neque pluribus rebus constat, 01 una ejus res non habet ho-
+5111 caput est 3
+
+[Ο
+
+milium, 01 f a ctus· erit quaesitum. Si vero caput constat plu· 4
+„ribus rebus quaeratur variatio carum inter 50, (0151 51111 discon-
+»tiguae 5011 105 extrinsecae interponantur) per probl. 4. ea duca-
+»tur in productum A, quodque ita producitur dicemus B. Jam si
+»res capitis nullam habet homogeneam extra caput, productum
+»B erit quaesitum. Si res capitis habet homogeneam tantum
+»extra caput, non vero intra, productum B. multiplicetur numero
+»reruni homogenearum, et 51 saepius sunt homogeneae, faetus ex
+»numero homogcnearum priorum multiplicetur numero homoge-
+
+»nearum posteriorum continue, et factus erit
+
+¹ »compositi per probl. 10. productum erit
+
+6 υ 01111051111111. Sin res capitis habet homogeneam A » q u a 0 situ 111. «-
+
+8
+
+»intra caput et extra, numerentur primo res·
+«homogeneae intrinsecae 01 extrinsecae simul,
+»et supponantur pro numero complicand03
+»deinde res datae homogeneae tantum intra ca-
+»put supponantur pro exponente. Dato igitur
+»numero et exponente, quaeratur complexio per
+»pi-obl. 1. 01 51 saepius contingat homogeneitas,
+»ducantur complexiones in 50 1111100111 continue.
+”Complexio vel factus ex complexionibus duca-
+»tur in productum B. Et faetus erit quaesi·
+ntum« Hoc problema casuum multitudo ope-
+rosissimum efficit, ejusque nobis solutio multo
+et labore et tempore constitit. Sed aliter se-
+quentia problemata ex artis principiis nemo sol-
+vet. In illis igitur usus hujus apparebit.
+
+PROBL. VlII.
+VARJATIONES ALTERI DATO CA-
+PITI COMMUNES REPERIRE.
+
+ι» Utrumque caput ponatur in eandem variatio·
+»nem quasi esset unum caput compositum (etsi
+»interdum res capitis compositi sint discenti-
+»guae) 01 indagentur variationes unius capitis
+
+ 
+
+PROBL. IX.
+CAPlTA VARIATIONES COMMUNES
+HAssEM'lA REPERIRE.
+
+»Si plura capita in variatione ordinis 111 eun· 9
+»dem locum incidunt vel ex toto vel ex parte,
+»non habent variationes connnunes. 2. Si ea-
+»deul res monadica 111 plura capita incidit, ea
+»non habent variationes 00111111111105. Caetera
+»011111111 habent variationes communes,
+
+PROBL. X.
+
+CAPlTA VARIATIONUM UHLIUM
+AUT INUTlLlUM REPERIRE.
+
+Capita in universum reperire expe· 10
+
+’ (11111111 051. Nan] quaelibet res per sc, aut in
+
+quocunque loco per se, aut cum quacunque alia
+aliisve, quocunque item loco cum alia aliisve,
+breviter omnis complexio aut variatio proposita
+minor et earundem rerum, seu quae tota 111 al-
+tera continetur, 051 caput. Methodus autem in
+
+·‹lisp011endis capitibus utilis, ut a minoribus ad
+
+majora progrediamur, quando v. g. propositum
+
