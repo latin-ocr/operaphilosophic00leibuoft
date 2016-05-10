@@ -1,0 +1,122 @@
+10
+
+PROBLEMATA.
+
+Tria sunt (111110 spectari debent: Problemata,
+Theo remata, usus3 in singulis problematis usum
+adjeei1111153 sicubi operae pretium videbatur, et theo-
+remata. Problematum autem (1111111151111111 rationem
+solutionis addidimus. Ex iis partem posteriorem
+primi, secundum et quartum 111115 debemus, reliqua
+ipsi eruimus. Quis illa primus detexerit ignoranuis.
+Schwcnterus Delie. 1. l. Sect. 1. prop. 32. apud
+Hieronymum Cardanum, ,111111111110111 Bu-
+teonem 01 Nicolaum Τ1111111011111 extare dieit.
+lu Cardani tamen 111-11011011 Aritlunetieu quae pro-
+diit Mediolani auno 1532). nihil reperimus. Inpri-
+mis dilucide, quiequid dudum liabetur, proposuit
+Christopli. Cluvius in (lom. supra Joh. de
+Sacro Bosco Sphaer. edit. Romae forma 4ta 1111110
+1785 p. 33. seqq.
+
+PROBL. Ι,
+DATO NUMERO ΕΤ ΕΧΡΟΝΕΝΤΕ
+COMPLEXION Es INVEMRE.
+
+1 Solutionis duo sunt modi, 1111115 (11· (111111111115
+complexionibus, alter de 0011121111111111111115 511111111;
+ille (1111110111 051 generalior, 1110 10111 pauciora re-
+quirit data. nempe nunu-rum solum et exponen-
+tem; eum 1110 etiam 11111051111111111111 inventas 011111-
+
+2111011101105 antec-edentes. (10110111111110111 11101111111
+11115 deteximus, speeialis 051 vulf-ratus. Solutio
+1111115 talis 0511 «addantur eomplexiones expo-
+unentis antecedentis et. dati de numero 11111000-
+
+11. DE ARTE COMBINATORIA.
+
+udenti, productum erunt complexiones quaesi-
+“tae3n 1. g. esto nunionis datus 4, exponens
+datus 3. 11111111111111 do numero antecedente 3.
+011111211111101105 3. et 001131111110 1.(3. -1- l. f. 4.)
+111011110111111 4. erit quaesitum. Sed 011111 111110- 2
+requiruntur complexiones numeri antecedentis,
+construenda 051 11111111111. 111 qua linea suprema 11
+sinistra dextrorsum eontinet Numeros, a Ο 115-
+11110 1111 12. utrimque 11101115110, 511115 0111111 esse
+duximus 11110 usque progredi, quam facile est
+emitinuare: linea extrema sinistra 11 5111111110 do-
+01511111 0011111101 Expone 11 t 05 110. 1111 12. linea
+intima 115111151111 dextrorsum eontinet Comple-
+xiones simpliciter. Reliquae inter 11115 11· 4
+neae 001111110111 complexiones dato numero qui
+51111 111 1011100 directo respondet, et exponente
+qui 0 regione sinistra. Ratio solutionis, 01
+11111(Ι11111011111111 11111111110. patebit, si demonstraveri-
+mus, Complexiones dati numeri et ox-
+ponentis oriri ex summa complexio-
+1111111111· 1111111010111110001101111 exponentis
+01 praecedentis 01 dati. Sit enim numerus
+(1111115 5, exponens datus 3. Erit numerus an-
+1000110115 4. 15 11111101, 00113111111111105 4, per Tabu-
+lam I. ‹·01n·211;1ti‹›11‹·s (5. Jam numerus 5. habet
+omnes 011113111111111105 (111115 11111000110115 (111 toto
+enim et 111115 01111111101111) nempe. 4. et praeterea
+tot quot 11111000110115 11111101011111211111101105, nova
+enim 105 111111 111111101115 5. exeedit 4. addita 5111-
+gulis 001112111111011111115 liujus, facit totidem no-
+xas 011113111111111105 nempe. 6. -1- 4. f. 10. E. Com-
+plexiones dati numeri ete. Q. E. D.
+
+TABULA Ι.
+
+ 
+
+0 1 1
+1 6 7 n Su 9111 10 0 11 r 12 1
+2 15 21 25· 311 Δ15 55 60
+:³ 211 35 511 si 1211 1115 220 ,
+«1 15 35 711 1211 2111 3311 4115 ζζ
+ῃ 5 11 21 511 121,- 252 Δ1112 7112 =
+(ζ. 11 1 7 25 51 211 1112 1121 0
+ξ 7 11 1 s :315 120 3311 7112 C,
+'3 5· 11 11 1 11 -15 1115 1115 0
+s- 11 11 11 11 1 111 35 2211 Ξ
+ῖΞ 111 11 (1 11 11 1 11 66 Ξ
+11 0 0 Ο 0 0 l 12 0
+12 11 0 o 11 11 0 0
+—...„..——.———..—..
+1 . ν 05 127 255 511 1023 2047 4005
+———-—.
+
+ 
+
+8 111
+
+:32 111
+
+l 24
+
+·-.²⁴
+
+'125 2515
+
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+   
+
+512 1021 2⁰48 *1021ss
+
+(7omplexiones 5111111111-1101· '⁹‘ (5011 Ι51111111111 complexionum dato exponente) 11111111111111111110,11111ιο
+011111011111111 eum 10111111115 progressionis geometricae duplae. 1
+
